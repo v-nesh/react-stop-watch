@@ -1,0 +1,16 @@
+.buttons {
+  box-shadow: var(--shadow);
+  padding: 10px 25px;
+  border-radius: 7px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  min-width: 20%;
+  font-size: 1.1rem;
+  background-color: #f9c791;
+  color: #000;
+}
+
+.buttons:hover {
+  box-shadow: rgb(0 0 0 / 45%) 0px 5px 15px;
+}
